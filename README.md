@@ -6,7 +6,8 @@ This demo was made using the v37 of the Oculus Integration package and Unity 202
 
 It features only one scene with a simple canvas which ahs a Inputfield and a BUtton. 
 Use the right controller to point and press the A button to trigger the input field or button.
-
+Open the /Scenes/SampleScene, be sure to switch to Androind first.
+It works only deployed I havent tested it but it should not work using Link, it does not work in the Editor.
 
 ![Screenshot 2022-10-24 021157](https://user-images.githubusercontent.com/26302806/197422707-103bf03e-c8f8-4972-8ef5-f3133cf3b1f9.jpg)
 

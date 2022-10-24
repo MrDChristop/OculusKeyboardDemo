@@ -12,6 +12,3 @@ It works only deployed I havent tested it but it should not work using Link, it 
 
 ![Screenshot 2022-10-24 021157](https://user-images.githubusercontent.com/26302806/197422707-103bf03e-c8f8-4972-8ef5-f3133cf3b1f9.jpg)
 
-
-https://user-images.githubusercontent.com/26302806/197422587-763bfef9-c3a0-4c4e-87ec-251ea4f2edad.mp4
-
